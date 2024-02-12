@@ -6,3 +6,5 @@ for x in word:
 
 print(word)
 print('This is a test')
+
+# This is just a test comment
